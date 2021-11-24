@@ -1,2 +1,2 @@
-# interview-php
-Interview questions for PHP developer
+# interview
+Interview questions for js developer
